@@ -12,3 +12,4 @@ def test_sub():
     assert sub(6,2) == 4
     assert sub(3,3) == 0
     assert sub(3,4) == -1
+    assert sub(3,5) == -2
